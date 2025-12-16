@@ -15,7 +15,7 @@
         "- 支持深色模式自动切换",
         "- 优化启动速度"
       ]
-    },
+    }
   ],
   "platform": "ios",
   "channel": "testflight"
